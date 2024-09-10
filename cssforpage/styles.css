@@ -1,0 +1,85 @@
+
+.titles {
+    color: rgb(91, 94, 219);
+    text-align: center;
+    font-family: serif;
+    text-decoration-line: underline;
+    font-size: 40px;
+    font-weight: 500;
+    
+   
+    
+}
+
+.titles2 {
+
+    position: absolute;
+    top: 480px;
+    left: 1650px;
+    color: rgb(202, 203, 247);
+    font-family: serif;
+    text-decoration-line: underline;
+    font-size: 20px;
+    font-weight: 500;
+    
+   
+    
+}
+
+
+.me {
+    position: absolute;
+    top: 10px;
+    width: 200px;
+  height: auto;
+  border-radius: 50%;
+  object-fit: cover;
+  border-color: rgb(91, 94, 219);
+  border-style: solid;
+  
+
+
+}
+
+.roundedcorner {
+    position: absolute;
+    top: 530px;
+    left: 1550px;
+    border-radius: 25px;
+    border: 2px solid rgb(91, 94, 250);
+    padding: 20px;
+    width: 290px;
+    height: 150px;
+    
+  }
+
+
+.kompetenslista {
+    position: absolute;
+    top: 530px;
+    left: 1555px;
+    color: rgb(202, 203, 247);
+    text-align: center;
+    font-family: serif;
+    font-size: 15px;
+    font-weight: 500;
+    
+
+}
+
+.kompetenslista2 {
+    position: absolute;
+    top: 530px;
+    left: 1720px;
+    color: rgb(191, 192, 253);
+    text-align: center;
+    font-family: serif;
+    font-size: 15px;
+    font-weight: 500;
+    
+
+}
+
+
+
+

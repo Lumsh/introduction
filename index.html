@@ -3,9 +3,77 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Intro</title>
+    <link rel="stylesheet" href="cssforpage\styles.css">
 </head>
-<body>
+<style>
+    body {
+      background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20210115/pngtree-fully-original-morning-mist-wraps-around-the-river-smoke-fills-the-image_519398.jpg");
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: 100% 100%;
+    }
+    </style>
+
+
+<body>  
+    <header>
+            <h1 class="titles" >Who Am I?</h1>
+    </header>   
+
+    <section>
+            <img class="me" src="data:image/jpeg;base64,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" alt="" height="400px" width="300px">
+            
+                <p class="titles2">KOMPETENS</p>
+            <ul class="kompetenslista">
+                <li>Projektledning</li>   
+                <li>Ledarskap      </li>
+                <li>Processförbättring</li>
+                <li>Agila Metoder</li>
+                <li>Presentationsteknik</li>
+                <li>Processkartläggning</li>
+                <li>RCA</li>
+                <li>Team Building</li>
+                <li>Riskhantering</li>
+            </ul>
+            
+            <ul class="kompetenslista2" >
+                <li>JQL</li>
+                <li>Six Sigma</li>
+                <li>Kaizen tekniker</li>
+                <li>Mötesteknik</li>
+                <li>Java</li>
+                <li>Jira, Asana</li>
+                <li>WBS/VSM</li>
+                <li>Konflikthantering</li>
+                <li>produktutveckling</li>
+            </ul>
+
+            <div class="roundedcorner" ></div>
+
+           
+
+            
+                
+
+
+
+
+
+                
+        </section>
+        
+   
+
+        
+    
+        
+        
+
+
+
+
+   
     
 </body>
 </html>
