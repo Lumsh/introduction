@@ -1,6 +1,6 @@
 
 .titles {
-    color: rgb(91, 94, 219);
+    color: rgb(246, 246, 250);
     text-align: center;
     font-family: serif;
     text-decoration-line: underline;
@@ -14,9 +14,9 @@
 .titles2 {
 
     position: absolute;
-    top: 480px;
+    top: 650px;
     left: 1650px;
-    color: rgb(202, 203, 247);
+    color: rgb(255, 255, 255);
     font-family: serif;
     text-decoration-line: underline;
     font-size: 20px;
@@ -34,7 +34,7 @@
   height: auto;
   border-radius: 50%;
   object-fit: cover;
-  border-color: rgb(91, 94, 219);
+  border-color: rgb(255, 255, 255);
   border-style: solid;
   
 
@@ -43,10 +43,10 @@
 
 .roundedcorner {
     position: absolute;
-    top: 530px;
+    top: 700px;
     left: 1550px;
     border-radius: 25px;
-    border: 2px solid rgb(91, 94, 250);
+    border: 2px solid rgb(255, 255, 255);
     padding: 20px;
     width: 290px;
     height: 150px;
@@ -56,9 +56,9 @@
 
 .kompetenslista {
     position: absolute;
-    top: 530px;
+    top: 700px;
     left: 1555px;
-    color: rgb(202, 203, 247);
+    color: rgb(255, 255, 255);
     text-align: center;
     font-family: serif;
     font-size: 15px;
@@ -69,9 +69,9 @@
 
 .kompetenslista2 {
     position: absolute;
-    top: 530px;
+    top: 700px;
     left: 1720px;
-    color: rgb(191, 192, 253);
+    color: rgb(255, 255, 255);
     text-align: center;
     font-family: serif;
     font-size: 15px;
